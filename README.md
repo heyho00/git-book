@@ -9,5 +9,7 @@
 
 그 내용을 기록한다.
 
-![](https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20230103175640_81093f0eecdb925b077eef21da9108b0.jpg)
+![](https://i.ytimg.com/vi/ptDDV8Hk-zY/maxresdefault.jpg)
+
+![](https://newsimg.sedaily.com/2022/12/27/26F2D9GYF4_5.jpg)
 
