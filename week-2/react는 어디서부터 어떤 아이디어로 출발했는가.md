@@ -1,5 +1,7 @@
 # react는 어디서부터 어떤 아이디어로 출발했는가
 
+[react 만들어보기 실습 레포](https://github.com/heyho00/make-react)
+
 ## 'JSX는 왜 쓰는가'의 답이기도 하다
 
 * html 파일이 있다.
@@ -112,5 +114,3 @@ document
   .querySelector('#root')
   .appendChild(createDOM(vdom));  
 ```
-
-<br>
