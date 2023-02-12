@@ -114,3 +114,9 @@ document
   .querySelector('#root')
   .appendChild(createDOM(vdom));  
 ```
+
+간단히 DOM을 만드는 함수까지 만들어 봤다.
+
+하단 레포에는 jsx없이 react를 사용하는 것에서 한 단계 더 나아가 react를 구현, virtual dom 까지 간단히 다뤄보았다.
+
+[react 만들어보기 실습 레포](https://github.com/heyho00/make-react)
