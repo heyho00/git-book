@@ -18,4 +18,6 @@
   * [Express](week-4/Express.md)
   * [React hook](week-4/React%20hook.md)
   * [useRef](week-4/useRef.md)
+  * [custom hook](week-4/Custom%20hook.md)
+  * [usehooks-ts](week-4/usehooks-ts.md)
   
