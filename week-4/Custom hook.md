@@ -1,4 +1,4 @@
-# Custom hook
+# 4. Custom hook
 
 [실습 레포 - custom hook 브랜치](https://github.com/heyho00/timer-app/tree/customHook)
 
