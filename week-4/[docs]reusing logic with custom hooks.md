@@ -420,8 +420,7 @@ custom hook을 추출하면 데이터 흐름을 명시적으로 만들 수 있�
 
 시간이 지남에 따라 React 팀의 목표는 더 구체적인 문제에 대한 더 구체적인 솔루션을 제공함으로써 앱의 Effect 수를 최소한으로 줄이는 것입니다.
 
-effect를 커스텀 Hook으로 감싸면 이러한 솔루션이 제공될 때 코드를 더 쉽게 업그레이드할 수 있습니다. 
-
+effect를 커스텀 Hook으로 감싸면 이러한 솔루션이 제공될 때 코드를 더 쉽게 업그레이드할 수 있습니다.
 
 ```js
 import { useOnlineStatus } from './useOnlineStatus.js';
