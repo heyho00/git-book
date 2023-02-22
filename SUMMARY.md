@@ -20,4 +20,5 @@
   * [3. useRef](week-4/useRef.md)
   * [4. custom hook](week-4/Custom%20hook.md)
   * [5. usehooks-ts](week-4/usehooks-ts.md)
+  * [docs-Reusing Logic with Custom Hooks](week-4/%5Bdocs%5Dreusing%20logic%20with%20custom%20hooks.md)
   
