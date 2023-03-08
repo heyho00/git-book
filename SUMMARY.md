@@ -29,4 +29,5 @@
   * [4. Playwright](week-5/Playwright.md)
 * [📍week 6](week-6/README.md)
   * [1. external store](week-6/external%20store.md)
+  * [2. TSyringe](week-6/TSyringe.md)
   
