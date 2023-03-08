@@ -27,4 +27,6 @@
   * [2. React Testing Library](week-5/React%20Testing%20Library.md)
   * [3. MSW](week-5/MSW.md)
   * [4. Playwright](week-5/Playwright.md)
+* [📍week 6](week-6/README.md)
+  * [1. external store](week-6/external%20store.md)
   
