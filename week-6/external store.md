@@ -1,5 +1,7 @@
 # 1. external store
 
+[실습레포](https://github.com/heyho00/external-store/tree/external-store)
+
 ## 관심사의 분리
 
 하나의 시스템은 작은 부품이 모여서 만들어진다.
@@ -16,9 +18,9 @@ Layered Architecture 에서는 사용자에게 `가까운 것`과 `먼 것`으�
 
 널리 알려진 MVC로 거칠게 표현하자면 이렇다. 각 부분은 하나의 관심사로 격리됨으로써 복잡도를 낮추게 된다.
 
-* Model → Process
-* View → Output
-* Controller → Input
+- Model → Process
+- View → Output
+- Controller → Input
 
 <br>
 
@@ -50,11 +52,11 @@ Redux는 단일 Store를 사용함으로써 좀 더 단순한 그림을 제안�
 
 3단계 프로세스로 거칠게 매핑하면 다음과 같다.
 
-* Input → Action + dispatch
+- Input → Action + dispatch
 
-* Process → reducer
+- Process → reducer
 
-* Output → View(React)
+- Output → View(React)
 
 ## External Store
 
@@ -78,10 +80,9 @@ const forceUpdate = () => setState({});
 
 ```js
 function useForceUpdate() {
- const [, setState] = useState({});
- return useCallback(() => setState({}), []);
+  const [, setState] = useState({});
+  return useCallback(() => setState({}), []);
 }
-
 ```
 
 이런 접근을 잘 하면, React가 UI를 담당하고, 순수한 TypeScript(또는 JavaScript)가 비즈니스 로직을 담당하는, `관심사의 분리(Separation of Concerns)`를 명확히 할 수 있다.
