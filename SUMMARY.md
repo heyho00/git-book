@@ -31,3 +31,8 @@
   - [1. external store](week-6/external%20store.md)
   - [2. TSyringe](week-6/TSyringe.md)
   - [3. Redux따라하기 & usestore-ts](week-6/ReduxNusestore.md)
+- [📍week 7](week-7/README.md)
+  - [1. Routing](week-7/Routing.md)
+  - [2. Routes](week-7/Routes.md)
+  - [3. Router](week-7/Router.md)
+  - [4. Routing](week-7/Navigation.md)
