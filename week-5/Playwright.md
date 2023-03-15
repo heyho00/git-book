@@ -149,6 +149,12 @@ npx playwright test
 
 브라우저 안뜨고 훨씬 빠르게 검사됨.
 
+playwright.config.ts에 headless: !!process.env.CI,
+
+환경 변수 process.env.CI 이거는
+
+아래처럼 실행할 때 직접 써주면 된다.
+
 ```js
 CI=true npx playwright test
 ```
@@ -158,6 +164,26 @@ CI=true npx playwright test
 ```bash
 /test-results/
 ```
+
+### icrease button 테스트 예시
+
+```js
+test('Click the "increase" button', async({page}) => {
+  await page.goto('/')
+
+  const count = 130
+
+  await Promise.all((
+    [...Array(count)].map( async ()=> {
+      await page.getByText('increase').click()
+    })
+  ))
+})
+
+  await expect(page.getByText(`${count}`)).toBeVisible()
+```
+
+## codeceptjs
 
 playwright 보다 좀 더 간단한 라이브러리도 있다. -> codeceptjs
 
