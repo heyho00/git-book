@@ -6,6 +6,10 @@
 
 `재사용 가능한 구성 요소`와 `패턴`을 사용하여 대규모로 디자인을 관리하기 위한 표준 세트라고 표현할 수 있다.
 
+**디자인 시스템의 핵심은 콘텐츠를 최적으로 표시하는 것.**
+
+캔버스를 디자인하는 것이 아니라 콘텐츠를 디자인하는 것이다.
+
 ## theme
 
 primary color, secondary color, font 등을 포함하는 ,.
@@ -35,3 +39,5 @@ primary color, secondary color, font 등을 포함하는 ,.
 <https://yozm.wishket.com/magazine/detail/1531/>
 
 사용한 이미지도 좋고 best practice를 향한 여정이 재밌어 보인다.
+
+ㄴㄴ
