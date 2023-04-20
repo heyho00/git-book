@@ -56,3 +56,5 @@
   - [3. 주문목록 & 주문상세](week-10/%EC%A3%BC%EB%AC%B8%20%EB%AA%A9%EB%A1%9D%EC%83%81%EC%84%B8.md)
 - [📍week 11](week-11/README.md)
   - [1. 배송 정보 입력](week-11/%EB%B0%B0%EC%86%A1%20%EC%A0%95%EB%B3%B4%20%EC%9E%85%EB%A0%A5.md)
+  - [2. 포트원 결제](week-11/%ED%8F%AC%ED%8A%B8%EC%9B%90%EA%B2%B0%EC%A0%9C.md)
+  - [pg사가 뭔가요?](week-11/pg.md)
