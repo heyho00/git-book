@@ -48,6 +48,7 @@
   - [2. 상품 목록](week-9/%EC%83%81%ED%92%88%EB%AA%A9%EB%A1%9D.md)
   - [3. 카테고리 목록](week-9/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%AA%A9%EB%A1%9D.md)
   - [4. 상품 상세](week-9/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8.md)
+  - [5. 장바구니 보기](week-9/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%EB%B3%B4%EA%B8%B0.md)
 - [📍week 10](week-10/README.md)
   - [1. 로그인](week-10/%EB%A1%9C%EA%B7%B8%EC%9D%B8.md)
 - [📍week 11](week-11/README.md)
