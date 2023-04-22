@@ -57,4 +57,5 @@
 - [📍week 11](week-11/README.md)
   - [1. 배송 정보 입력](week-11/%EB%B0%B0%EC%86%A1%20%EC%A0%95%EB%B3%B4%20%EC%9E%85%EB%A0%A5.md)
   - [2. 포트원 결제](week-11/%ED%8F%AC%ED%8A%B8%EC%9B%90%EA%B2%B0%EC%A0%9C.md)
+  - [3. 배송 및 결제 정보 전달](week-11/%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B4%EC%A0%84%EB%8B%AC.md)
   - [pg사가 뭔가요?](week-11/pg.md)
