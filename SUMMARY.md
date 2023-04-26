@@ -59,3 +59,6 @@
   - [2. 포트원 결제](week-11/%ED%8F%AC%ED%8A%B8%EC%9B%90%EA%B2%B0%EC%A0%9C.md)
   - [3. 배송 및 결제 정보 전달](week-11/%EA%B2%B0%EC%A0%9C%EC%A0%95%EB%B3%B4%EC%A0%84%EB%8B%AC.md)
   - [pg사가 뭔가요?](week-11/pg.md)
+- [📍week 12](week-12/README.md)
+  - [1. admin 시작](week-12/admin%EC%8B%9C%EC%9E%91.md)
+  - [Uncontrolled Component](week-12/UncontrolledComponent.md)
