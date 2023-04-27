@@ -61,4 +61,5 @@
   - [pg사가 뭔가요?](week-11/pg.md)
 - [📍week 12](week-12/README.md)
   - [1. admin 시작](week-12/admin%EC%8B%9C%EC%9E%91.md)
+  - [2. 로그인, 사용자 목록](week-12/%EB%A1%9C%EA%B7%B8%EC%9D%B8%2C%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%AA%A9%EB%A1%9D.md)
   - [Uncontrolled Component](week-12/UncontrolledComponent.md)
